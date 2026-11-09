@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "filename": "photo-1.jpg",
+    "title": "Deepotsav at MNNIT Seminar Hall",
+    "category": "Festivals",
+    "description": "Grand entrance of MNNIT Seminar Hall illuminated with sacred earthen lamps and vibrant rangoli during the Deepotsav celebration.",
+    "date": "2024-10-29",
+    "location": "Seminar Hall, MNNIT Allahabad"
+  },
+  {
+    "id": 2,
+    "filename": "photo-2.jpg",
+    "title": "Classical Instruments Presentation",
+    "category": "Performances",
+    "description": "Audience gathering for the spiritual musical evening showcasing classical instruments—Tabla, Harmonium, and Mridanga.",
+    "date": "2024-10-29",
+    "location": "Seminar Hall, MNNIT Allahabad"
+  },
+  {
+    "id": 3,
+    "filename": "photo-3.jpg",
+    "title": "Divine Altar & Deepam Aradhana",
+    "category": "Traditions",
+    "description": "Revered portrait of Mata Yashoda and Bal Gopal surrounded by glowing rows of clay diyas, radiating peace and spiritual serenity.",
+    "date": "2024-10-29",
+    "location": "Seminar Hall, MNNIT Allahabad"
+  },
+  {
+    "id": 4,
+    "filename": "photo-4.jpg",
+    "title": "Anahad Classical Ensemble in Kirtan",
+    "category": "Performances",
+    "description": "Vocalists and instrumentalists of Anahad Band performing mesmerizing devotional bhajans with harmonium, mridanga, and tabla on stage.",
+    "date": "2024-10-29",
+    "location": "Main Stage, MNNIT Allahabad"
+  },
+  {
+    "id": 5,
+    "filename": "photo-5.jpg",
+    "title": "Theatrical Drama – Royal Court Scene",
+    "category": "Drama",
+    "description": "Anahad theatre troupe enacting an epic cultural drama with dramatic costumes and intricate stage storytelling.",
+    "date": "2024-10-29",
+    "location": "Seminar Hall Stage, MNNIT"
+  },
+  {
+    "id": 6,
+    "filename": "photo-6.jpg",
+    "title": "Golden Darbar Theatrical Performance",
+    "category": "Drama",
+    "description": "Epic spiritual drama performance depicting ancient royal assemblies with elaborate costumes and profound cultural dialogues.",
+    "date": "2024-10-29",
+    "location": "Seminar Hall Stage, MNNIT"
+  },
+  {
+    "id": 7,
+    "filename": "photo-7.jpg",
+    "title": "Lighting the Diyas of Devotion",
+    "category": "Traditions",
+    "description": "MNNIT student volunteers meticulously pouring oil and lighting dozens of traditional clay diyas in unison.",
+    "date": "2024-10-29",
+    "location": "Student Activity Wing, MNNIT"
+  },
+  {
+    "id": 8,
+    "filename": "photo-8.jpg",
+    "title": "Campus Canopy of Lights",
+    "category": "Festivals",
+    "description": "The sacred campus avenue of MNNIT Allahabad illuminated with shimmering canopy lights during the festive celebration.",
+    "date": "2024-10-29",
+    "location": "Campus Central Avenue, MNNIT"
+  },
+  {
+    "id": 9,
+    "filename": "photo-9.jpg",
+    "title": "Sri Ram Navami Chanting & Bhajans",
+    "category": "Performances",
+    "description": "Anahad vocalists dressed in sacred yellow kurtas leading soulful devotional songs before the divine image of Sri Ram Darbar.",
+    "date": "2024-04-17",
+    "location": "Seminar Hall, MNNIT Allahabad"
+  },
+  {
+    "id": 10,
+    "filename": "photo-10.jpg",
+    "title": "Anahad Mandali Members in Pranām",
+    "category": "Memories",
+    "description": "The Anahad student band offering heartfelt pranām and namaste to the audience after a successful musical performance.",
+    "date": "2024-04-17",
+    "location": "Seminar Hall Stage, MNNIT"
+  },
+  {
+    "id": 11,
+    "filename": "photo-11.jpg",
+    "title": "Grand Satsang & Kirtan Assembly",
+    "category": "Performances",
+    "description": "Over a hundred engineering students gathered in the campus hall for collective congregational chanting and spiritual discourse.",
+    "date": "2024-08-26",
+    "location": "Hostel Assembly Hall, MNNIT"
+  },
+  {
+    "id": 12,
+    "filename": "photo-12.jpg",
+    "title": "Divine Sanctum & Golden Singhasan",
+    "category": "Traditions",
+    "description": "The resplendent deities of Sri Sri Radha Krishna adorned in silk royal blue and gold on an intricately carved altar.",
+    "date": "2024-08-26",
+    "location": "Prayagraj Center"
+  },
+  {
+    "id": 13,
+    "filename": "photo-13.jpg",
+    "title": "Handcrafted Ram Navami Cultural Board",
+    "category": "Art",
+    "description": "Creative bulletin board handcrafted by Anahad art team featuring Ramayana verses, devotion essays, and devotional artwork.",
+    "date": "2024-04-17",
+    "location": "MNNIT Notice Board Wing"
+  },
+  {
+    "id": 14,
+    "filename": "photo-14.jpg",
+    "title": "Maha Mantra Chanting Chorus",
+    "category": "Memories",
+    "description": "Anahad family united on stage in front of the sacred banner 'Hare Krishna Hare Rama' celebrating youth unity in devotion.",
+    "date": "2024-04-17",
+    "location": "Seminar Hall, MNNIT Allahabad"
+  },
+  {
+    "id": 15,
+    "filename": "photo-15.jpg",
+    "title": "Acoustic Bhajan Sandhya",
+    "category": "Performances",
+    "description": "Fusion of classical instruments and acoustic guitar during an intimate weekend Bhajan Sandhya filled with heartfelt devotion.",
+    "date": "2024-09-15",
+    "location": "Hall of Residence, MNNIT"
+  },
+  {
+    "id": 16,
+    "filename": "photo-16.jpg",
+    "title": "Evening Darshan & Meditative Kirtan",
+    "category": "Traditions",
+    "description": "Students immersed in peaceful evening meditation and bhajan singing before the divine altar.",
+    "date": "2024-09-15",
+    "location": "Spiritual Gathering Center"
+  },
+  {
+    "id": 17,
+    "filename": "photo-17.jpg",
+    "title": "Anahad Jamming & Rehearsal Session",
+    "category": "Performances",
+    "description": "Student instrumentalists practicing with harmonium, dholak, tabla, and acoustic guitar, perfecting rhythms for the upcoming fest.",
+    "date": "2024-10-10",
+    "location": "Music Room, MNNIT Allahabad"
+  },
+  {
+    "id": 18,
+    "filename": "photo-18.jpg",
+    "title": "Sacred Snana & Abhishekam Ceremony",
+    "category": "Traditions",
+    "description": "The solemn Vedic Abhishekam ritual conducted with sacred conch shell (Shankha) during Janmashtami celebrations.",
+    "date": "2024-08-26",
+    "location": "Janmashtami Pavilion, MNNIT"
+  },
+  {
+    "id": 19,
+    "filename": "photo-19.jpg",
+    "title": "Grand Maha Aarti Gathering",
+    "category": "Traditions",
+    "description": "Hundreds of college youth standing in reverence during the Maha Aarti, chanting ancient stotras with folded hands.",
+    "date": "2024-08-26",
+    "location": "Community Center, MNNIT Allahabad"
+  },
+  {
+    "id": 20,
+    "filename": "photo-20.jpg",
+    "title": "Ecstatic Kirtan & Mayur Pankh Aarti",
+    "category": "Performances",
+    "description": "Joyful chanting and devotional dance with peacocks-feather fan, uniting students across all branches and batches.",
+    "date": "2024-08-26",
+    "location": "Celebration Hall, MNNIT"
+  }
+]
