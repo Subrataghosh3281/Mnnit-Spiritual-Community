@@ -27,9 +27,13 @@ export default function Hero({ settings }) {
             
             {/* Institute & Cultural Badges */}
             <div className="inline-flex flex-wrap items-center justify-center lg:justify-start gap-2.5">
-              <span className="inline-flex items-center gap-1.5 px-3.5 py-1 rounded-full text-xs font-semibold bg-vedic-surface/90 border border-vedic-gold/40 text-vedic-gold-light shadow-sm">
+              <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-semibold bg-vedic-surface/90 border border-vedic-gold/40 text-vedic-gold-light shadow-sm">
+                <img src="/images/anahad-logo.png" alt="Anahad Logo" className="w-5 h-5 object-contain" />
+                <span>ANAHAD BAND</span>
+              </div>
+              <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-semibold bg-vedic-surface/90 border border-vedic-border text-vedic-cream/90 shadow-sm">
                 <img src="/images/mnnit-logo.png" alt="MNNIT" className="w-4 h-4 object-contain" />
-                MNNIT Allahabad Official Community
+                MNNIT Allahabad
               </span>
               <span className="inline-flex items-center gap-1 px-3 py-1 rounded-full text-xs font-semibold bg-vedic-saffron/20 border border-vedic-saffron/40 text-vedic-saffron-light">
                 <Sparkles className="w-3.5 h-3.5" />
@@ -138,9 +142,9 @@ export default function Hero({ settings }) {
                       Harmonium, Mridanga & Soulful Bhajans
                     </p>
                   </div>
-                  <div className="flex items-center gap-1 bg-vedic-surface/90 px-2 py-1 rounded-lg border border-vedic-border text-xs text-vedic-gold">
-                    <Music className="w-3.5 h-3.5" />
-                    <span>अनहद</span>
+                  <div className="flex items-center gap-1.5 bg-vedic-surface/95 px-2.5 py-1 rounded-lg border border-vedic-gold/40 text-xs text-vedic-gold shadow-md">
+                    <img src="/images/anahad-logo.png" alt="Anahad Logo" className="w-5 h-5 object-contain" />
+                    <span className="font-serif font-bold">अनहद मंडली</span>
                   </div>
                 </div>
               </div>

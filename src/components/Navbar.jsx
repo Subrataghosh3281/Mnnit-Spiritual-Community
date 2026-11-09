@@ -37,9 +37,9 @@ export default function Navbar({ onOpenAdmin, settings }) {
           {/* Logo & Institute Identity */}
           <a href="#" className="flex items-center gap-3 group">
             {/* Anahad Logo */}
-            <div className="relative w-11 h-11 sm:w-12 sm:h-12 rounded-full overflow-hidden border border-vedic-gold/60 p-0.5 bg-vedic-surface/80 group-hover:border-vedic-saffron transition-all duration-300 group-hover:scale-105 shadow-md shadow-vedic-gold/10">
+            <div className="relative w-11 h-11 sm:w-12 sm:h-12 rounded-full overflow-hidden border border-vedic-gold/60 p-0.5 bg-vedic-card/90 group-hover:border-vedic-saffron transition-all duration-300 group-hover:scale-105 shadow-md shadow-vedic-gold/10 flex items-center justify-center">
               <img
-                src="/images/anahad-logo.svg"
+                src="/images/anahad-logo.png"
                 alt="Anahad Band Logo"
                 className="w-full h-full object-contain"
               />

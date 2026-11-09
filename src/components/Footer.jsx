@@ -18,9 +18,9 @@ export default function Footer({ onOpenAdmin, settings }) {
           <div className="lg:col-span-5 space-y-4">
             <div className="flex items-center gap-3">
               <img
-                src="/images/anahad-logo.svg"
+                src="/images/anahad-logo.png"
                 alt="Anahad Logo"
-                className="w-12 h-12 object-contain"
+                className="w-14 h-14 object-contain filter drop-shadow"
               />
               <img
                 src="/images/mnnit-logo.png"
